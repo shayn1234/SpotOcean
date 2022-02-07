@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Spot-Ocean-EKS",
+    "name": "EKS by Spot Ocean",
+    "description": "Basic examples - ocean provisioning",
+    "html_url": "https://raw.githubusercontent.com/shayn1234/SpotOcean/master/spot.yaml",
+    "zip_url": "https://github.com/shayn1234/SpotOcean/archive/refs/heads/master.zip",
+    "readme_url": "https://raw.githubusercontent.com/cloudify-community/blueprint-examples/master/virtual-machine/README.md",
+    "main_blueprint": "spot.yaml",
+    "image_url": "https://repository.cloudifysource.org/cloudify/blueprints/6.2/images/openshift.png",
+    "created_at": "2019-05-11T19:32:13Z",
+    "updated_at": "2020-05-21T14:25:37Z"
+  }
+]
