@@ -1,7 +1,7 @@
 [
   {
     "id": "Spot-Ocean-EKS",
-    "name": "EKS by Spot Ocean",
+    "name": "EKS-by-Spot-Ocean",
     "description": "Basic examples - ocean provisioning",
     "html_url": "https://raw.githubusercontent.com/shayn1234/SpotOcean/master/spot.yaml",
     "zip_url": "https://github.com/shayn1234/SpotOcean/archive/refs/heads/master.zip",
